@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
-
-- 🌱 I’m currently learning **everything 🤣**
-
-- 🤝 I’m looking for help with **Senior Flutter Developer**
+- 🔭 I’m currently working on **Sardim**
 
 - 📫 How to reach me **basnetprakash090@gmail.com**
 
